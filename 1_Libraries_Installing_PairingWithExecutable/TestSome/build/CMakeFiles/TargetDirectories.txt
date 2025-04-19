@@ -1,0 +1,3 @@
+/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/TestSome/build/CMakeFiles/rebuild_cache.dir
+/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/TestSome/build/CMakeFiles/edit_cache.dir
+/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/TestSome/build/CMakeFiles/testsome.dir

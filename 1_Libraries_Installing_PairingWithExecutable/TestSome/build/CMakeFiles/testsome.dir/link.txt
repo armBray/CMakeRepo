@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testsome.dir/main.cpp.o  -o testsome   -L/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/TestSome/../1_SomeLibDemo/cpp/build  -Wl,-rpath,/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/TestSome/../1_SomeLibDemo/cpp/build -lmearlymath 

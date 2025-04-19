@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/1_SomeLibDemo/cpp/adder.h
+
+/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/TestSome/main.cpp
+/home/abray/repo/CMakeRepo/1_Libraries_Installing_PairingWithExecutable/1_SomeLibDemo/cpp/adder.h
+-
+iostream
+-
+
